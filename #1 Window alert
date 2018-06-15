@@ -1,1 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
 
+<h2>My First window alert</h2>
+<p>My first paragraph.</p>
+
+<script>
+window.alert(1+5)
+</script>
+
+</body>
+</html>
